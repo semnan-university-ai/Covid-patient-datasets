@@ -60,3 +60,5 @@ values from covid patient symptoms of various age groups, race groups, and gende
 * [Covid-patient-datasets](https://github.com/amirshnll/Covid-patient-datasets/)
 * [ibto-datasets](https://github.com/amirshnll/ibto-datasets)
 * [persian-slang](https://github.com/amirshnll/persian-slang)
+* [persian-news-dataset](https://github.com/amirshnll/persian-news-dataset)
+* [persian-sms-dataset](https://github.com/amirshnll/persian-sms-dataset)
